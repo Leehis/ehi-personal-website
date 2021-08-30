@@ -1,0 +1,19 @@
+.NavbarItems {
+  background: #fffaf0;
+  width: 100%;
+  padding: 100px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 80px;
+  font-size: 1.2rem;
+}
+.ImageBox {
+  display: flex;
+}
+.nav-links {
+  color: #000;
+  text-decoration: none;
+  padding: 0.5rem 1rem;
+  font-weight: 800;
+}
